@@ -1,3 +1,5 @@
 # Intellihack_Rizzmoid_1
 
-Final Code - nn_crop.ipynb
+## Final Code for training - nn_crop.ipynb
+
+## Testing prediction Code - test_pred.py
